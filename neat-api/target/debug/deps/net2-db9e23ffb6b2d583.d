@@ -1,0 +1,13 @@
+/home/thislucio/dev2024/Rust/neat-api/target/debug/deps/net2-db9e23ffb6b2d583.rmeta: /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/lib.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/tcp.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/udp.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/socket.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/ext.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/utils.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/mod.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/impls.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/unix.rs
+
+/home/thislucio/dev2024/Rust/neat-api/target/debug/deps/net2-db9e23ffb6b2d583.d: /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/lib.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/tcp.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/udp.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/socket.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/ext.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/utils.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/mod.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/impls.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/unix.rs
+
+/home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/lib.rs:
+/home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/tcp.rs:
+/home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/udp.rs:
+/home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/socket.rs:
+/home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/ext.rs:
+/home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/utils.rs:
+/home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/mod.rs:
+/home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/impls.rs:
+/home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/unix.rs:

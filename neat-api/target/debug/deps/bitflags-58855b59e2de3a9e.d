@@ -1,0 +1,11 @@
+/home/thislucio/dev2024/Rust/neat-api/target/debug/deps/bitflags-58855b59e2de3a9e.rmeta: /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/lib.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/iter.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/parser.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/traits.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/public.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/internal.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/external.rs
+
+/home/thislucio/dev2024/Rust/neat-api/target/debug/deps/bitflags-58855b59e2de3a9e.d: /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/lib.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/iter.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/parser.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/traits.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/public.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/internal.rs /home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/external.rs
+
+/home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/lib.rs:
+/home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/iter.rs:
+/home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/parser.rs:
+/home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/traits.rs:
+/home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/public.rs:
+/home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/internal.rs:
+/home/thislucio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/external.rs:
